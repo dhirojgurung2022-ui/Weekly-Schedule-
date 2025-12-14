@@ -1,0 +1,5 @@
+{
+  "name": "Weekly Staff Schedule Viewer",
+  "description": "A web application to view and organize weekly staff schedules sourced directly from a published Google Sheet. The schedule updates automatically as the source sheet is modified.",
+  "requestFramePermissions": []
+}
